@@ -10,6 +10,8 @@ Here you can find an example code to use CAMELE model to predict the underlying 
 
 # Instructions (Linux)
 
+- Download the models and the data from the Zenodo repository and place them in the corresponding folders.
+
 - Create a suitable conda environment using the requirements.yml file
 
   ```bash
